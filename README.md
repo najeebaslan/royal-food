@@ -23,9 +23,7 @@ Royal Foods is a modern, cross-platform food menu and offers application built w
   <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-2.jpg?alt=media&token=6891c20c-3748-436b-ae45-41f70a6f2c5b" alt="Image 2"></td>
   <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-3.jpg?alt=media&token=37cbdbdb-a276-4c2a-b3f2-541f78e30a82" alt="Image 2"></td>
   <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-4.jpg?alt=media&token=4579b274-121b-430e-894d-29a380a4dec2" alt="Image 2"></td>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-dashbord-1.jpg?alt=media&token=15ed7db3-7b8f-421e-b623-e8e6bb0eff63" alt="Image 2"></td>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-dashbord-2.jpg?alt=media&token=9efce09a-14ec-43f3-a0b0-a93e4b09866f" alt="Image 2"></td>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-dashbord-3.jpg?alt=media&token=e1244e8e-f034-4654-b947-c1ea920ce328" alt="Image 2"></td>
+
 ---
 
 ## 🚀 Key Features
