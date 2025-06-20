@@ -19,10 +19,10 @@ Royal Foods is a modern, cross-platform food menu and offers application built w
 - The app supports both desktop and mobile layouts, ensuring a consistent experience across devices.
 - Built with a focus on performance, SEO, and modern design principles.
 
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-1.jpg?alt=media&token=42e0cbcd-c8bd-4a0e-afc5-27ce00657752" alt="Image 2"></td>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-2.jpg?alt=media&token=6891c20c-3748-436b-ae45-41f70a6f2c5b" alt="Image 2"></td>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-3.jpg?alt=media&token=37cbdbdb-a276-4c2a-b3f2-541f78e30a82" alt="Image 2"></td>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal_food-4.jpg?alt=media&token=4579b274-121b-430e-894d-29a380a4dec2" alt="Image 2"></td>
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyalfood-mobile.webp?alt=media&token=0269d3cf-731a-486f-94a9-f11303565f37" alt="Image 2"></td>
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal-food-design-web.webp?alt=media&token=38061552-a145-4591-af43-091e514de66e" alt="Image 2"></td>
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal-food-mobile1.webp?alt=media&token=09cab7a1-c9c3-4a99-9d1a-615e4a245853" alt="Image 2"></td>
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Froyal-food-tablet.webp?alt=media&token=98f0224e-1beb-4173-b2b1-b7540d69f890" alt="Image 2"></td>
 
 ---
 
